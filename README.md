@@ -4,10 +4,9 @@ Se trata de un portfolio online. Muestra el perfil de la persona, sus habilidade
 
 <h3>> English</h3>
 
-
-219/5000
 It is an online portfolio. It shows the profile of the person, their skills, a brief presentation and of course their work. It does not have actual jobs loaded but it is a sample of the final product.
 
 <h3>> Technologies</h3>
 
-Made with HTML5, CSS3 and Bootstrap4.
+Made with HTML5, CSS3 and Bootstrap4.<br>
+Watch -> https://pilifigueroa.github.io/PortfolioOnline/
